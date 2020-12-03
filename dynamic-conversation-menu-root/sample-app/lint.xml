@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/arrivals.png" />
+        <ignore path="src/main/res/drawable/busses.png" />
+        <ignore path="src/main/res/drawable/departures.png" />
+        <ignore path="src/main/res/drawable/flights.png" />
+        <ignore path="src/main/res/drawable/home.png" />
+        <ignore path="src/main/res/drawable/logosb.png" />
+        <ignore path="src/main/res/drawable/security.png" />
+        <ignore path="src/main/res/drawable/security1.png" />
+        <ignore path="src/main/res/drawable/security2.png" />
+        <ignore path="src/main/res/drawable/security3.png" />
+        <ignore path="src/main/res/drawable/security4.png" />
+        <ignore path="src/main/res/drawable/security5.png" />
+        <ignore path="src/main/res/drawable/security6.png" />
+        <ignore path="src/main/res/drawable/shops.png" />
+        <ignore path="src/main/res/drawable/shops_map.png" />
+        <ignore path="src/main/res/drawable/taxis.png" />
+        <ignore path="src/main/res/drawable/taxis.png" />
+        <ignore path="src/main/res/drawable/trains.png" />
+        <ignore path="src/main/res/drawable/transports.png" />
+        <ignore path="src/main/res/drawable/transports_map.png" />
+    </issue>
+</lint>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dynamic Conversation Menu Sample</string>
+    <string name="security">Informations sécurité</string>
+    <string name="flights">Vols</string>
+    <string name="transports">Transports</string>
+    <string name="shops">Magasins</string>
+    <string name="home">Menu principal</string>
+    <string name="say_security1">Vous allez bientôt passer le contrôle de sécurité. C\'est une étape importante que tout le monde doit faire, pour la sécurité de tous les voyageurs.</string>
+    <string name="say_security2">Une fois de plus, il est important de faire attention à ce que vous ne transportiez pas d\'objets interdits en cabine.</string>
+    <string name="say_security3">Lorsque vous arriverez au contrôle de sécurité, il vous sera demandé de placer les bagages que vous voulez emmener avec vous dans l\'avion dans un bac.</string>
+    <string name="say_security4">Il vous sera également demandé de placer dans le bac tous les objets que vous transportez avec vous, comme les appareils électroniques, les clés, les pièces et tout autre objet métallique.</string>
+    <string name="say_security5">Le bac va ensuite passer dans une machine à rayons x qui va permettre d\'analyser le contenu de vos bagages. Il vous sera ensuite demandé de passer à travers un détecteur de métaux.</string>
+    <string name="say_security6">Si vous avez bien suivi les instructions, tout devrait bien se passer! bon vol!</string>
+    <string name="say_shops">Voici une carte avec les magasins que l\'on peut trouver autour de nous.</string>
+    <string name="departures">Départs</string>
+    <string name="arrivals">Arrivées</string>
+    <string name="trains">Trains</string>
+    <string name="busses">Bus</string>
+    <string name="taxis">Taxis</string>
+    <string-array name="listen_home">
+        <item>Home</item>
+        <item>Back</item>
+        <item>Home page</item>
+    </string-array>
+    <string name="say_departures">Voici la liste des vols qui vont bientôt décoller.</string>
+    <string name="say_arrivals">Voici la liste des vols qui vont bientôt atterrir.</string>
+    <string name="say_busses">La gare de bus se trouve juste en dessous des halls de départ et d’arrivée, au niveau 0. Je vous affiche une carte pour vous aider à la trouver. J\'ai également affiché les informations sur les prochains départs.</string>
+    <string name="say_trains">La gare se trouve juste en dessous des halls de départ et d’arrivée, au niveau -1. Je vous affiche une carte pour vous aider à la trouver. J\'ai également affiché les informations sur les prochains départs.</string>
+    <string name="say_taxis">La gare de taxis se trouve juste en dessous des halls de départ et d’arrivée, au niveau 2. Je vous affiche une carte pour vous aider à la trouver. J\'ai également affiché les tarifs pour les destinations fréquentes.</string>
+</resources>

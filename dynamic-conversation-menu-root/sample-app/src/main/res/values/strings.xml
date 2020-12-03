@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Dynamic Conversation Menu Sample</string>
+    <string name="security">Security informations</string>
+    <string name="flights">Flights</string>
+    <string name="transports">Transports</string>
+    <string name="shops">Shops</string>
+    <string name="home">Home</string>
+    <string name="say_security1">You will soon pass through the security checking area. This is a very important process that everyone has to do, and it\'s for the safety of all air travelers.</string>
+    <string name="say_security2">Again, it will be important to check that you have none of the prohibited items for air travel.</string>
+    <string name="say_security3">When you\'ll arrive at the security check area, you\'ll be asked to place any hand luggage or bags you\'ll be taking into the plane into a special tray.</string>
+    <string name="say_security4">You\'ll be also asked to place any loose items like phones, electronic devices, keys, coins and any other metallic items into this tray.</string>
+    <string name="say_security5">The tray will then pass through a x-ray machine that can see inside your bag or other items. You will then be asked to pass through a metal detector machine to check that you haven\'t forgotten to place any metallic objects in the tray.</string>
+    <string name="say_security6">If you have followed the instructions everything will be alright! Have a good flight.</string>
+    <string name="retail1" translatable="false">1. Duty Free</string>
+    <string name="retail2" translatable="false">2. Summer Time</string>
+    <string name="retail3" translatable="false">3. The Luxury hall</string>
+    <string name="retail4" translatable="false">4. Precious Time</string>
+    <string name="retail5" translatable="false">5. Hugo Boss</string>
+    <string name="retail6" translatable="false">6. The Chocolate House</string>
+    <string name="retail7" translatable="false">7. Yoyaku</string>
+    <string name="retail8" translatable="false">8. Relay</string>
+    <string name="say_shops">Here is a map with the shops you can find around us.</string>
+    <string name="departures">Departures</string>
+    <string name="arrivals">Arrivals</string>
+    <string name="trains">Trains</string>
+    <string name="busses">Busses</string>
+    <string name="taxis">Taxis</string>
+    <string-array name="listen_home">
+        <item>Home</item>
+        <item>Back</item>
+        <item>Home page</item>
+    </string-array>
+    <string name="say_departures">Here is the list of the flights that will soon take off.</string>
+    <string name="say_arrivals">Here is the list of the flights that will soon land here.</string>
+    <string name="say_busses">The bus station is located directly under the departures and arrivals halls, at level 0. Here is a map to help you find it. I\'ve also displayed the informations for the next busses.</string>
+    <string name="say_trains">The train station is located directly under the departures and arrivals halls, at level -1. Here is a map to help you find it. I\'ve also displayed the informations for the next trains.</string>
+    <string name="say_taxis">The taxi station is located directly under the departures and arrivals halls, at level 2. Here is a map to help you find it. I\'ve also displayed the prices to expect for common destinations.</string>
+</resources>

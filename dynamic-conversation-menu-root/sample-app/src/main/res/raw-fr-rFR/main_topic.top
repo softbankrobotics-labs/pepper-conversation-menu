@@ -1,0 +1,12 @@
+topic: ~main()
+
+u:(["Retour" "Accueil" "Menu principal" "Menu"]) %start "Bonjour! Comment puis-je vous aider?"
+u:(["Informations sécurité" "Sécurité"]) %security
+u:(["Vols" "Départs" "Arrivées"]) %flights "Souhaitez-vous obtenir des informations sur les départs? Ou les arrivées"
+    u1:("Départs") %departures
+    u1:("Arrivées") %arrivals
+u:(["Transports" "Bus" "Car" "VTC" "Taxi" "Train"]) %transports "Vous pouvez quitter l'aéroport en train, en bus ou en taxi. Pour quel moyen de transport puis-je vous donner des informations?"
+    u1:(["Bus" "Car"]) %busses
+    u1:("Train") %trains
+    u1:(["VTC" "Taxi"]) %taxis
+u:(["Magasins" "Shopping"]) %shops

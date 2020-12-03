@@ -1,0 +1,12 @@
+topic: ~main()
+
+u:(["Home" "Back" "Home page"]) %start "Hi! Let me help you. What are you looking for?"
+u:(["Security informations" "Security"]) %security
+u:(["Flights" "Departures" "Arrivals"]) %flights "Are you looking for informations on departures? Or arrivals"
+    u1:("Departures") %departures
+    u1:("Arrivals") %arrivals
+u:(["Transports" "Busses" "Bus" "Cab" "Taxi" "Train" "Trains" "Coaches" "Coach"]) %transports "You can leave the airport by train, bus and taxi. Which one do you want to use?"
+    u1:(["Busses" "Bus" "Coaches" "Coach"]) %busses
+    u1:(["Train" "Trains"]) %trains
+    u1:(["Cab" "Taxi"]) %taxis
+u:(["Shops" "Shopping"]) %shops
