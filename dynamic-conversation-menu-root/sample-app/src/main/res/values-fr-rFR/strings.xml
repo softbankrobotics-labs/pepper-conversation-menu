@@ -19,9 +19,10 @@
     <string name="busses">Bus</string>
     <string name="taxis">Taxis</string>
     <string-array name="listen_home">
-        <item>Home</item>
-        <item>Back</item>
-        <item>Home page</item>
+        <item>Retour</item>
+        <item>Accueil</item>
+        <item>Menu principal</item>
+        <item>Menu</item>
     </string-array>
     <string name="say_departures">Voici la liste des vols qui vont bientôt décoller.</string>
     <string name="say_arrivals">Voici la liste des vols qui vont bientôt atterrir.</string>
